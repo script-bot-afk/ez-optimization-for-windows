@@ -1,1 +1,1 @@
-# ez-optimization-for-windows
+Chain to my other repository with instructions to download optimizations.
